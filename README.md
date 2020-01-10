@@ -1,6 +1,6 @@
 # Flixter
 
-This is a wbsite to upload and watch turtorials. Instructors can upload photos and videos for content. Other users can subscribe to the tutorials as well. Instructors may offer the course for free or charge customers.
+This is a website to upload and watch turtorials. Instructors can upload photos and videos for content. Other users can subscribe to the tutorials as well. Instructors may offer the course for free or charge customers.
 
 The app was built within a Ruby on Rails framework. The information is saved to a PostgreSQL database. Most of the buttons were added using Bootstrap - in conjunction with HTML5 and CSS3. The Devise gem in Rails was used to authenticate users. The Carrierwave gem helps with uploading images/videos. The Stripe gem was used to verify credit card information. JavaScript was used as well: VideoJS was included for embedding videos, and the jQuery sortable function helped with reordering lessons and sections within courses.
 
